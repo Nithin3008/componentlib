@@ -1,0 +1,19 @@
+.Links {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 5px;
+}
+.linkPaths {
+  color: orangered;
+  font-size: 28px;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: 600;
+  padding: 7px 10px;
+}
+.NavSection {
+  position: sticky;
+  top: 0;
+  bottom: 0;
+}
