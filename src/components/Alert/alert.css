@@ -1,0 +1,32 @@
+.alerts {
+  color: white;
+  padding: 10px;
+}
+
+.alert-success {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #33ff38;
+  padding: 2px;
+  border-radius: 2px;
+  margin-top: 3px;
+}
+.alert-error {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: red;
+  padding: 2px;
+  border-radius: 2px;
+  margin-top: 3px;
+}
+.alert-warning {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #e4ed11;
+  padding: 2px;
+  border-radius: 2px;
+  margin-top: 3px;
+}
